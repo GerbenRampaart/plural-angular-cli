@@ -1,0 +1,1 @@
+Typing along with the plural course from John Papa about the angular-cli
